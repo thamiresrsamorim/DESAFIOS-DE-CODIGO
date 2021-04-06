@@ -19,3 +19,12 @@
 |       **Análise de Números**        | **[Link](https://github.com/thamiresrsamorim/DESAFIOS-DE-CODIGO/blob/master/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/3.js)** |
 |        **Contagem de Notas**        | **[Link](https://github.com/thamiresrsamorim/DESAFIOS-DE-CODIGO/blob/master/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/4.js)** |
 |   **Consumo Médio do automóvel**    | **[Link](https://github.com/thamiresrsamorim/DESAFIOS-DE-CODIGO/blob/master/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/5.JS)** |
+
+
+
+- Soluções de Problemas básicos em JavaScript
+
+|  **Dividindo X por Y**   | **[Link](https://github.com/thamiresrsamorim/DESAFIOS-DE-CODIGO/blob/master/Solu%C3%A7%C3%A3o%20de%20Problemas%20b%C3%A1sicos%20com%20JavaScript/1.js)** |
+| :----------------------: | ------------------------------------------------------------ |
+|        **Bloobs**        | **[Link](https://github.com/thamiresrsamorim/DESAFIOS-DE-CODIGO/blob/master/Solu%C3%A7%C3%A3o%20de%20Problemas%20b%C3%A1sicos%20com%20JavaScript/2.js)** |
+| **Tipos de Combustível** | **[Link](https://github.com/thamiresrsamorim/DESAFIOS-DE-CODIGO/blob/master/Solu%C3%A7%C3%A3o%20de%20Problemas%20b%C3%A1sicos%20com%20JavaScript/3.js)** |
